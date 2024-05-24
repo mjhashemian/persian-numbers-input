@@ -60,23 +60,23 @@ export default App;
 
 ## Props
 
-| Type        | Default value             | Description           |
-| ----------- | ------------------------- | --------------------- |
-| value       | String                    | the input value       |
-| ------      | -------------             | --------------------  |
-| onChange    | (event) => void           | the input onchange    |
-| ------      | -------------             | --------------------  |
-| placeholder | string                    | the input placeholder |
-| ------      | -------------             | --------------------  |
-| className   | string                    | the input className   |
-| ------      | -------------             | --------------------  |
-| prefix      | string                    | the input prefix      |
-| ------      | -------------             | --------------------  |
-| postfix     | string                    | the input postfix     |
-| ------      | -------------             | --------------------  |
-| formatter   | (value: string) => string | the input formatter   |
-| ------      | -------------             | --------------------  |
-| styles      | {}                        | the input styles      |
+| Type        | Default value             | Description                |
+| ----------- | ------------------------- | -------------------------- |
+| value       | String                    | the input value            |
+| ------      | -------------             | --------------------       |
+| onChange    | (event) => void           | the input onchange         |
+| ------      | -------------             | --------------------       |
+| placeholder | string                    | the input placeholder      |
+| ------      | -------------             | --------------------       |
+| className   | string                    | the input className        |
+| ------      | -------------             | --------------------       |
+| prefix      | string                    | the input prefix           |
+| ------      | -------------             | --------------------       |
+| postfix     | string                    | the input postfix          |
+| ------      | -------------             | --------------------       |
+| formatter   | (value: string) => string | the input formatter        |
+| ------      | -------------             | --------------------       |
+| styles      | {}                        | the input container styles |
 
 ## Contributing
 
