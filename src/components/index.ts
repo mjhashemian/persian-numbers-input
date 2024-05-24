@@ -1,0 +1,1 @@
+export { PersianNumericFormat } from './PersianNumericFormat';
