@@ -7,9 +7,8 @@
 
 ## Prerequisites
 
-This project requires NodeJS (version 8 or later) and NPM.
+This project requires NodeJS (version 12 or later) and NPM.
 [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
-reactjs or ts
 
 ```sh
 $ npm -v && node -v
@@ -47,7 +46,7 @@ $ yarn add --dev persian-numbers-input
 ## Usage
 
 ```tsx
-import { PersianNumericFormat } from './components/PersianNumericFormat';
+import { PersianNumericFormat } from 'persian-numbers-input';
 const App: React.Fc = () => {
   return (
     <div>
@@ -81,7 +80,7 @@ export default App;
 
 ## Contributing
 
-for contributing plase contact me in telegram @hashemianmj
+for contributing please contact me in [telegram] : https://t.me/hashemianm
 
 ## Authors
 
