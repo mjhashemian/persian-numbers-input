@@ -1,10 +1,6 @@
-import { PersianNumericFormat } from './components/PersianNumericFormat';
+import { PersianNumericFormat } from "./components/PersianNumericFormat";
 function App() {
-  return (
-    <div>
-      <PersianNumericFormat />
-    </div>
-  );
+  return <PersianNumericFormat />;
 }
 
 export default App;
