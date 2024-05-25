@@ -23,4 +23,5 @@ export default defineConfig({
     emptyOutDir: true,
   },
   plugins: [react(), dts()],
+  base : "persian-numbers-input"
 });
